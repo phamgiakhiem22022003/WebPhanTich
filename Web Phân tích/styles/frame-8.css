@@ -1,0 +1,348 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.frame-8-ZnV {
+  width: 100%;
+  height: 102.3rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-8-bg.png');
+}
+.frame-8-ZnV .rectangle-25-tpm {
+  width: 88.4rem;
+  height: 92.4rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 1.7rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .tn-hp-ng-ogq {
+  width: 9.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 13.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .s-hp-ng-UY5 {
+  width: 8.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 18.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .loi-hp-ng-98R {
+  width: 9.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 7rem;
+  top: 31.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .thi-gian-FSM {
+  width: 6.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 7rem;
+  top: 39.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .ch-s-hu-NWy {
+  width: 7.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 7rem;
+  top: 45rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .ss-ch-s-hu-5wB {
+  width: 11.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 50.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .trng-thi-ZbT {
+  width: 6.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 25.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .cp-nht-thng-tin-hp-ng-Twj {
+  width: 70.6rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 3.9rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .rectangle-26-Wv1 {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 12.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .rectangle-27-F6u {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 18.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .item-95458694-Ajf {
+  width: 7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.5rem;
+  top: 19.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .rectangle-28-fgR {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 24.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .rectangle-29-PMX {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 31.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .rectangle-30-KW5 {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 38.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .rectangle-31-TcH {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 44.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .rectangle-32-oAM {
+  width: 35.7rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 25.5rem;
+  top: 49.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-8-ZnV .kinh-doanh-chng-khon-Vos {
+  width: 16.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.4rem;
+  top: 13.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .khng-hot-ng-PeM {
+  width: 11.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.4rem;
+  top: 25.4rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .hp-ng-kinh-doanh-Uvh {
+  width: 14.3rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.2rem;
+  top: 32.2rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .item-14-11-2022-16-11-2022-ze9 {
+  width: 16rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 39.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .o-minh-huy-Tnd {
+  width: 9.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.3rem;
+  top: 45rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .item-8474564756988-AS9 {
+  width: 12.1rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 50.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .rectangle-33-ecD {
+  width: 21.5rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 66.2rem;
+  background-color: #07c7f1;
+  border-radius: 1rem;
+}
+.frame-8-ZnV .cp-nht-8nH {
+  width: 6.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 68.6rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-8-ZnV .rectangle-34-S2H {
+  width: 21.9rem;
+  height: 7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 39.3rem;
+  top: 66.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-8-ZnV .hy-9Bb {
+  width: 2.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 49.3rem;
+  top: 69rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

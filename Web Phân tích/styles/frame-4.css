@@ -1,0 +1,355 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.frame-4-8iR {
+  width: 100%;
+  height: 102.3rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-4-bg.png');
+}
+.frame-4-8iR .thng-tin-bds-EFf {
+  width: 43.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 53.6rem;
+  top: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-4-8iR .auto-group-pxzd-6Hs {
+  width: 142.2rem;
+  height: 27.1rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 9.9rem;
+  display: flex;
+  column-gap: 20.1rem;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-pxzd-6Hs .rectangle-7-9X3 {
+  width: 34rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-pxzd-6Hs .rectangle-8-6BP {
+  width: 34rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-pxzd-6Hs .rectangle-9-pdB {
+  width: 34rem;
+  height: 27.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-jdxt-Aww {
+  width: 59.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 41.3rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-jdxt-Aww .cn-h-hgy {
+  margin: 0.1rem 12.8rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-jdxt-Aww .auto-group-8x3w-Ctd {
+  box-sizing: border-box;
+  padding: 0.6rem 0.8rem 0.5rem 0.8rem;
+  width: 38.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-ohc1-rTP {
+  width: 59rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.4rem;
+  top: 47.9rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-ohc1-rTP .ngy-ng-k-maM {
+  margin: 0.1rem 5.1rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-ohc1-rTP .auto-group-c1nu-3nm {
+  box-sizing: border-box;
+  padding: 1rem 0.8rem 0.1rem 0.8rem;
+  width: 38.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-oaa1-v5s {
+  width: 58.9rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 54.5rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-oaa1-v5s .gi-tin-3RP {
+  margin: 0.1rem 12rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-oaa1-v5s .auto-group-pt61-XbT {
+  box-sizing: border-box;
+  padding: 0.6rem 0.75rem 0.5rem 0.75rem;
+  width: 38.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-12xu-LYu {
+  width: 58.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 61.1rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-12xu-LYu .trng-thi-EeH {
+  margin: 0.1rem 9.1rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-12xu-LYu .rectangle-13-X7b {
+  width: 38.1rem;
+  height: 4.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-pke1-FZP {
+  width: 58.9rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.5rem;
+  top: 67.7rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-pke1-FZP .tnh-tp-PQh {
+  margin: 0.1rem 11.8rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-pke1-FZP .auto-group-xhp3-K3T {
+  box-sizing: border-box;
+  padding: 0.4rem 0.8rem 0.7rem 0.8rem;
+  width: 38.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-3ejh-yth {
+  width: 58.8rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 74.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.frame-4-8iR .auto-group-3ejh-yth .qun-huyn-v3F {
+  margin: 0.2rem 6.7rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-3ejh-yth .auto-group-nmp1-dCZ {
+  box-sizing: border-box;
+  padding: 0.2rem 0.8rem;
+  width: 38.1rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-xkqx-3GH {
+  width: 59.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 80.9rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-xkqx-3GH .x-phng-NJZ {
+  margin: 0.1rem 8.4rem 0rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-xkqx-3GH .auto-group-vs6m-4x5 {
+  box-sizing: border-box;
+  padding: 0.6rem 0.8rem 0.5rem 0.8rem;
+  width: 38.1rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-fqc5-YsF {
+  width: 63rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 92rem;
+  display: flex;
+  align-items: center;
+}
+.frame-4-8iR .auto-group-fqc5-YsF .auto-group-2ytp-rsw {
+  margin: 0rem 12rem 0.3rem 0rem;
+  width: 27.1rem;
+  height: 7.8rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-4-8iR .auto-group-fqc5-YsF .auto-group-hjxm-5Vo {
+  margin-top: 0.3rem;
+  width: 23.9rem;
+  height: 7.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

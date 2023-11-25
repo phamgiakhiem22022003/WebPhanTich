@@ -1,0 +1,221 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.frame-9-VEm {
+  width: 100%;
+  height: 102.3rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-9-bg.png');
+}
+.frame-9-VEm .rectangle-25-DwT {
+  width: 112.2rem;
+  height: 92.4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 2.5rem;
+  border: solid 0.2rem #e0ad4b;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-9-VEm .cp-nht-LmB {
+  width: 6.2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 15rem;
+  top: 68.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .rectangle-35-RXj {
+  width: 44.5rem;
+  height: 64.4rem;
+  position: absolute;
+  left: 5.5rem;
+  top: 5.6rem;
+  background-color: #d9d9d9;
+}
+.frame-9-VEm .printer--ZP3 {
+  width: 14.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 53.5rem;
+  top: 7rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.frame-9-VEm .printer--ZP3 .printer--ZP3-sub-0 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.frame-9-VEm .printer--ZP3 .printer--ZP3-sub-1 {
+}
+.frame-9-VEm .rectangle-36-owb {
+  width: 31.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 70rem;
+  top: 7.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-9-VEm .page--X6u {
+  width: 10.9rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 53.7rem;
+  top: 20.8rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .ellipse-1-qdP {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 23.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-9-VEm .ellipse-2-aL5 {
+  width: 2.6rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 28.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-9-VEm .all-udF {
+  width: 3.7rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 73.7rem;
+  top: 23.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .form-ajP {
+  width: 4.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 73.7rem;
+  top: 28.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .paper-slider--hp1 {
+  width: 19.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 54rem;
+  top: 35.8rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .rectangle-37-pdj {
+  width: 26rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 75.6rem;
+  top: 35rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-9-VEm .rectangle-38-Lc5 {
+  width: 21.8rem;
+  height: 7.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 54.3rem;
+  top: 62.4rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.frame-9-VEm .rectangle-39-Sf7 {
+  width: 21.8rem;
+  height: 7.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 87.4rem;
+  top: 62.4rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #07c7f1;
+  border-radius: 1rem;
+}
+.frame-9-VEm .cancle-kvh {
+  width: 7.8rem;
+  height: 3rem;
+  position: absolute;
+  left: 61.3rem;
+  top: 64.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-9-VEm .printer-mL1 {
+  width: 7.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 94.4rem;
+  top: 64.9rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
